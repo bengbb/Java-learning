@@ -1,0 +1,4 @@
+1.复制bin文件夹下的路径，到“电脑-属性-高级系统设置-环境变量”中。
+2.新建系统变量命名“JAVA_HOME”，路径D:\java learning。删除“\bin”。
+3.再去path中删除原先Java配置的变量，同时新建一个D:\java learning\bin。
+4.cmd中输入java，如弹出一堆文字则配置成功。
