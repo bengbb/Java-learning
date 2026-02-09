@@ -3,4 +3,6 @@
 第一课    
 学习java的安装,环境变量的配置,IDEA的下载和安装。  
 第二课  
-Hello World编写，IDEA基本设置以及插件安装
+Hello World编写，IDEA基本设置以及插件安装  
+第三课  
+注释相关内容学习，了解hello world中关键字，字面量  
