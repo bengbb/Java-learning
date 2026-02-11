@@ -1,0 +1,4 @@
+Scanner sc = new Scanner(System.in);//召唤
+int num1 = sc.nextInt();//录入整数
+double num2 = sc.nextDouble;//录入小数
+String str = sc.next();//录入字符串
