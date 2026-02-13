@@ -17,3 +17,4 @@ public class OperaterDemo1 {
         System.out.println("个位：" + ge + " 十位：" + shi + " 百位：" + bai);
     }
 }
+
