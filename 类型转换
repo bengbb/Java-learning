@@ -1,0 +1,11 @@
+1.如有byte short类型，直接变成int
+如:
+byte a = 10 ;
+short b = 20;
+(int) c = a + b
+2.把取值范围小的变成取值范围大的
+3.强制转换要手动操作（可能导致溢出）
+如
+byte a = 10;
+byte b = 20;
+byte c = (byte)(a + b);
