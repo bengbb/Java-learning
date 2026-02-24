@@ -1,8 +1,8 @@
 switch(char/byte/short/in/枚举/字符串){//不能是long或小数
-case1://不能写变量
+case 1://不能写变量
 xxx;
 break;
-case2://不能重复
+case 2://不能重复
 xxxx;
 break;
 default:
@@ -13,3 +13,17 @@ break;
 2.default可以省略，但当case都不匹配时，没有输出结果。
 3.当没有break时，会导致case穿透，匹配到一个case后会继续向下运行，直到运行完毕或遇到break。
 （使用场景：当多个case语句重复的时候利用case穿透节省代码）
+4.箭头标签
+case 1 ->{
+xxxxx
+}//无需break也不会穿透
+5.case后面可以写多个值
+case 1,2,3,4
+6.switch可以有运行结果，yield关键字
+int number = 3;
+String name = switch(number){
+case 1,2,3,4,5 -> {
+yield "一";
+}
+…………
+}//将值赋给了name
