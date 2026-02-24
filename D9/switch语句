@@ -1,0 +1,11 @@
+switch(){
+case1:
+xxx;
+break;
+case2:
+xxxx;
+break;
+default:
+xxxxxx;
+break;
+}
