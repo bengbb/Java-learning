@@ -15,3 +15,4 @@ public class WhileDemo1 {
         System.out.println(times);
     }
 }
+
