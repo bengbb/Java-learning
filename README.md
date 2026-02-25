@@ -18,5 +18,7 @@ Hello World编写，IDEA基本设置以及插件安装.
 学习了elseif语句以及相关练习.  
 第九课  
 学习了switch和for循环语句.  
+第十课  
+学习了while dowhile 无限循环 break和continue
 
 
