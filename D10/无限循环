@@ -1,0 +1,6 @@
+死循环
+for( ; ; ; )
+while(true)
+do{
+
+}while(true)
