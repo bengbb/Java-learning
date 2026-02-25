@@ -1,6 +1,8 @@
-死循环
+1.死循环
 for( ; ; ; )
 while(true)
 do{
 
 }while(true)
+2.循环控制语句
+break在switch和循环当中，表示中断或跳出
