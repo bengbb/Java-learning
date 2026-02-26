@@ -19,6 +19,8 @@ Hello World编写，IDEA基本设置以及插件安装.
 第九课  
 学习了switch和for循环语句.  
 第十课  
-学习了while dowhile 无限循环 break和continue
+学习了while dowhile 无限循环 break和continue  
+第十一课  
+学习循环嵌套，做点打印练习  
 
 
