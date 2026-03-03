@@ -1,0 +1,6 @@
+sum(int a , int b)
+sum(int a , int b , int c)
+sum(int a , int b , int c , int d)
+^^^^^^^^^
+可以利用不同数量的参数来实现不同的方法名
+看个数不同，类型不同，顺序不同
