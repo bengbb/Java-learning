@@ -1,0 +1,11 @@
+private关键字，可以修饰成员变量和成员方法
+一旦被修饰，只能在本类中被访问，外界无法访问
+public class Dog(){
+private int age;
+pubilic void setAge(int num){
+判断num是否满足要求
+}
+pubilic void getAge(){
+return age;
+}
+}
