@@ -13,3 +13,7 @@ d.name = "xiaobai";
 d.age = 2;
 d.weight = 5.5;
 d.color = "white";
+
+描述一类事物的类叫Javabean类
+带有main方法的叫做测试类
+Javabean类可以写属性和行为
