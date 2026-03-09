@@ -1,0 +1,15 @@
+用一个类描述小狗
+public class Dog {
+String name;
+int age;
+double weight;
+String color;
+}
+创建对象
+Dog d = new Dog();
+new 创建一个大空间
+赋值
+d.name = "xiaobai";
+d.age = 2;
+d.weight = 5.5;
+d.color = "white";
