@@ -27,6 +27,8 @@ Hello World编写，IDEA基本设置以及插件安装.
 十三  
 学习java的底层运行逻辑  
 十四  
+学习java的内存机制  
+十五    
 学习面向对象的private和public关键字，以及一些练习  
 
 
