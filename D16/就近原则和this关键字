@@ -1,0 +1,12 @@
+就近原则：
+在使用变量时谁近就用谁
+如：
+private int age;
+public void setage(int age){
+this.age = age;
+sout(age);
+}
+此时会打印与之更近的形参age。
+使用时先检查有没有局部变量，如果没有就用全局变量。
+
+当上面的sout(age)变成sout(this.age)时，就会用全局变量。
