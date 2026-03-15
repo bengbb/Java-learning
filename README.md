@@ -31,7 +31,9 @@ Hello World编写，IDEA基本设置以及插件安装.
 十五    
 学习面向对象的private和public关键字，以及一些练习  
 十六  
-学习就近原则，this关键字和构造方法
+学习就近原则，this关键字和构造方法  
+十七  
+学习final和枚举
 
 
 
