@@ -1,0 +1,11 @@
+类和类之间的父子关系，Java中提供extends，用于建立类与类之间的关系
+public class Student extends Person{
+}
+Student子类 Person父类
+
+何时使用继承？
+当类与类之间存在共性的内容，并满足子类是父类的一种。
+从图片上往下写代码
+
+Java只支持单继承，不支持多继承，但支持多层继承。
+当无继承的时候，会自动继承object
