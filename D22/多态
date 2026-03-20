@@ -1,0 +1,9 @@
+当Student继承Person后，有两种创建对象的方式
+  Student stu = new Student();
+  Person per = new Student();
+好处
+1.当方法的形参写父类的类型时，可以传入子类对象
+2.在父类类型的方法中调用的方法按照子类的重写执行
+
+多态的前提
+  有继承关系，有父类引用指向子类对象
