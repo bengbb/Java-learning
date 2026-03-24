@@ -1,0 +1,8 @@
+使用关键字interface
+如
+public implements swim{
+public abstract void swim();
+}
+public class frog extends Animals implements swim(){}//继承动物类，实现swim接口
+要重写父类和swim里的所有方法
+interface中变量默认是常量，需要直接赋值
