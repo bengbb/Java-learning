@@ -1,0 +1,26 @@
+内部类表示的事物是外部类的一部分
+如public class car{
+  成员变量
+class engine{
+  成员变量
+}
+}
+
+1.成员内部类：写在成员位置，可以由一些修饰符修饰。创建对象 Outer.Inner oi = new Outer().new Inner();
+当在内部类中创建方法后，直接sout输出方法中的变量a，this.a输出内部类中的变量，Outer.this.a输出外部类中的成员变量。
+
+2.静态内部类：在静态内部类中要访问外部类中非静态的内容，需要创建外部类的对象。创建对象
+Outer.Inner oi = new Outer.Inner();
+oi.show1();//静态内部，非静态方法
+
+Outer.Inner.show2();//静态内部，静态方法
+
+3.局部内部类
+
+4.匿名内部类：一个没有名字的内部类，在继承一个类或一个接口时少写一个文件
+定义  new 类名或接口名 (){
+      重写方法
+};
+如   new Inter(){
+public void show(){...};
+};
