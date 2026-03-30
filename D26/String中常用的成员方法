@@ -1,0 +1,9 @@
+1.比较
+boolean equals 完全一样为true反之为false
+boolean equalsIgnoreCase 忽略大小写的比较
+可以用于账号密码的登录等 
+对bool类型进行判断，不建议写==
+2.遍历
+public char charAt(int index):根据索引返回字符//通过012345等等数字直接类似数组查找。
+如char c = str.charAt(3);
+public int length():返回此字符串的长度
