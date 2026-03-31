@@ -1,0 +1,5 @@
+String substring(int beginindex,int endindex)//截取
+包头不包尾，包左不包右
+String substring(int endindex)//截取到末尾
+String substring(int beginindex)//从开头开始截取
+定义一个字符串接收返回值
