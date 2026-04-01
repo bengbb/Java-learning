@@ -1,0 +1,9 @@
+拼接字符串速度非常快
+
+public StringBuilder()//空参构造 
+public StringBuilder(String str)//带参构造 
+
+append()//添加数据
+reverse()//反转
+int length()//获取长度
+toString //变回字符串
